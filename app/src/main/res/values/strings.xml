@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework2.1.1</string>
+    <string name="edit_summa">введите сумму</string>
+    <string name="edit_info">Информация об оплате</string>
+    <string name="check_adress">перевод по адресу</string>
+    <string name="check_phone">перевод по номеру телефона</string>
+    <string name="check_card">перевод по номеру карты</string>
+    <string name="btn">OK</string>
+    <string name="text">сумма %1$s р. переведена на %2$s</string>
+</resources>
